@@ -1,10 +1,8 @@
 ## Hi there 👋
-## 🌱 I'm currently learning about **embedded software** and **AIoT systems** 
+## 🌱 I'm currently learning about **Embedded Software** and **AIoT systems** 
 ### Programming language:
-# 
-### What I Code In
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cupost&layout=compact&theme=vision-friendly-dark)](https://github.com/Cupost) 
+
 <!--
 **Cupost/Cupost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
